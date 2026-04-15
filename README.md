@@ -93,7 +93,7 @@ class Melissa:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏭 Procurement ERP — Cevital</h3>
+      <h3>Procurement ERP — Cevital</h3>
       <p>Full procurement cycle management: needs expression, supplier tracking, validation, reception and contract management.</p>
       <p>AI chatbot on a <strong>RAG architecture</strong> (LangChain + LangGraph) to retrieve any of <strong>60 000+ parts</strong> from plain-text descriptions. Complete ERP with interactive dashboards.</p>
       <p>
@@ -105,7 +105,7 @@ class Melissa:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Pepper Robot — Hospital AI</h3>
+      <h3>Pepper Robot — Hospital AI</h3>
       <p>Intelligent assistance system on the <strong>Pepper humanoid robot</strong>: medical pre-diagnosis agent (LangGraph ReAct) routing patients to the right specialist.</p>
       <p>Deep learning module (EfficientNet-B2, PyTorch) for chest X-ray analysis via QR code, hospital navigation on a <strong>NetworkX graph</strong> with real-time route maps and vocal output.</p>
       <p>
