@@ -20,7 +20,7 @@
 class Melissa:
     role       = ["Software Engineer", "AI Student"]
     focus      = ["Multimodal AI", "Deep Learning", "NLP"]
-    currently  = "Building a multimodal emotion detection system 🎙️📝"
+    currently  = "Building a multimodal emotion detection system 🎙️"
     datasets   = ["RAVDESS", "CREMA-D"]
     models     = ["HuBERT", "wav2vec2", "BERT", "Whisper"]
     passion    = "Bridging the gap between software engineering and AI"
@@ -143,7 +143,7 @@ class Melissa:
 
 ## 🌟 Featured Project
 
-> 🎙️📝 **Multimodal Emotion Detection System** — Combining an audio pipeline (HuBERT + wav2vec2, fine-tuned on RAVDESS & CREMA-D) with a text pipeline (BERT + Whisper) through a late-fusion layer for real-time emotion recognition.
+> 🎙️ **Multimodal Emotion Detection System** — Combining an audio pipeline (HuBERT + wav2vec2, fine-tuned on RAVDESS & CREMA-D) with a text pipeline (BERT + Whisper) through a late-fusion layer for real-time emotion recognition.
 
 ---
 
