@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Melissa%20Amrouche&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Engineer%20%26%20AI%20Student&amp;descSize=18&amp;descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=150&amp;section=header&amp;text=Melissa%20Amrouche&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=40" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Bridging+Software+Engineering+%26+AI;Building+multimodal+systems+%F0%9F%A7%A0;Passionate+about+deep+learning+%26+NLP;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG"/></a>
 
@@ -92,12 +92,12 @@ class Melissa:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=melissaamrouche&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaamrouche&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmrMelissa&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrMelissa&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117"/>
 
 <br/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=melissaamrouche&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=AmrMelissa&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak"/></a>
 
 </div>
 
