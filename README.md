@@ -88,18 +88,56 @@ class Melissa:
 
 ---
 
-## 📊 GitHub Stats
+## 🗂️ Projects
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmrMelissa&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrMelissa&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117"/>
-
-<br/>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=AmrMelissa&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak"/></a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏭 Procurement ERP — Cevital</h3>
+      <p>Full procurement cycle management: needs expression, supplier tracking, validation, reception and contract management.</p>
+      <p>AI chatbot on a <strong>RAG architecture</strong> (LangChain + LangGraph) to retrieve any of <strong>60 000+ parts</strong> from plain-text descriptions. Complete ERP with interactive dashboards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&amp;logo=chainlink&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangGraph-4B8BF5?style=flat-square&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Pepper Robot — Hospital AI</h3>
+      <p>Intelligent assistance system on the <strong>Pepper humanoid robot</strong>: medical pre-diagnosis agent (LangGraph ReAct) routing patients to the right specialist.</p>
+      <p>Deep learning module (EfficientNet-B2, PyTorch) for chest X-ray analysis via QR code, hospital navigation on a <strong>NetworkX graph</strong> with real-time route maps and vocal output.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/EfficientNet-FF6B6B?style=flat-square&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangGraph-4B8BF5?style=flat-square&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/NetworkX-013243?style=flat-square&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pepper_SDK-CC0000?style=flat-square&amp;logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🧪 ML Algorithm Explorations</h3>
+      <p>Collection of ML/DL experiments and implementations from scratch:</p>
+      <p>
+        <img src="https://img.shields.io/badge/Minimerror_Algorithm-6366F1?style=flat-square&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/Perceptron-EC4899?style=flat-square&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/Monoplan_Algorithm-14B8A6?style=flat-square&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/Hotel_Review_NLP-F59E0B?style=flat-square&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/Protein_Structure_Prediction-10B981?style=flat-square&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/LSTM_%2B_Attention-8B5CF6?style=flat-square&amp;logoColor=white"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&amp;logo=python&amp;logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
