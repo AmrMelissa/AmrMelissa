@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Melissa%20Amrouche&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Engineer%20%26%20AI%20Student&amp;descSize=18&amp;descAlignY=55" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Bridging+Software+Engineering+%26+AI;Building+multimodal+systems+%F0%9F%A7%A0;Passionate+about+deep+learning+%26+NLP;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Bridging+Software+Engineering+%26+AI;Building+multimodal+systems+%F0%9F%A7%A0;Passionate+about+deep+learning+%26+NLP;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG"/></a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-melissa-amrouche.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-amrouche/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrouche1511@gmail.com)
+<a href="https://portfolio-melissa-amrouche.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/melissa-amrouche/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:amrouche1511@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -97,7 +97,7 @@ class Melissa:
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=melissaamrouche&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=melissaamrouche&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak"/></a>
 
 </div>
 
